@@ -1,0 +1,19 @@
+{
+  "name": "sentient-update",
+  "version": "1.0.0",
+  "description": "Welcome to my exciting word-guessing game! Get ready to put your vocabulary skills to the test and have a great time challenging yourself.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakaz01k/Sentient-Update.git"
+  },
+  "author": "Denys Yariukhin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zakaz01k/Sentient-Update/issues"
+  },
+  "homepage": "https://github.com/zakaz01k/Sentient-Update#readme"
+}
